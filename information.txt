@@ -1,0 +1,1 @@
+This is simple maven project that displays hello world on consoles
